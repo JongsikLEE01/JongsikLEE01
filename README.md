@@ -5,7 +5,7 @@
 
 <h3>Git Streak</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongsikLEE01&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongsikLEE01&locale=kr&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>My Langs</h3>
 
@@ -13,4 +13,4 @@
 
 <h3>Top Langs</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongsikLEE01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongsikLEE01&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
