@@ -1,9 +1,8 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JongSik's%20%20Github&textBg=false&fontColor=FFFFFF&fontSize=70" />
+<div align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=adadad&height=150&section=header&text=JongSik's%20%20Github&textBg=false&fontColor=FFFFFF&fontSize=40&fontAlignY=30&fontAlign=70&desc=Welcome👋&descAlignY=50&descAlign=83" />
 </div>
 
 <div align="center">
-	 <h3> Welcome👋 </h3>
 	 <strong><p> Platforms & Languages ✨</p></strong>
 </div>
 <div  align="center">
@@ -51,7 +50,7 @@
     </tr>
   </table>-->
   <h3> My Stats 😎 </h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=jongsikLee01&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=jongsikLee01&show_icons=true&theme=graywhite">
 </div>
 
 
@@ -67,6 +66,9 @@
 
 <br>
 
+<div align='center'>
+   <img src="https://capsule-render.vercel.app/api?type=Waving&color=adadad&height=150&section=footer" />
+</div>
 
 <!-- <h3>Git Stats</h3>
 
