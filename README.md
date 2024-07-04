@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	 <strong><p> Platforms & Languages ✨</p></strong>
+    <h3> Platforms & Languages ✨</h3>
 </div>
 <div  align="center">
 	<img src="https://img.shields.io/badge/Java-F24E1E?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -28,7 +28,7 @@
 </div>
 <br>
 <div align="center">
-	<strong><p> Tools 🛠 </p></strong>
+	<h3> Tools 🛠 </h3>
 </div>
 <div align="center">
  	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flate&logo=Visual Studio Code&logoColor=white"/>
