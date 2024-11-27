@@ -14,14 +14,13 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
 	<br>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+	<img src="https://img.shields.io/badge/Node.Js-005F0F?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
-	<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white">
+	<img src="https://img.shields.io/badge/Thymeleaf-28a745?style=flat&logo=Thymeleaf&logoColor=white">
 	<br>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/Node.Js-28a745?style=flat&logo=Node.js&logoColor=white" />
  	<br>
 
 
@@ -32,13 +31,15 @@
 	<h3> Tools 🛠 </h3>
 </div>
 <div align="center">
- 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flate&logo=VisualStudioCode&logoColor=white"/>
+ 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flate&logo=VSC&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/Notion-000900?style=flat&logo=notion&logoColor=white"/>
+
 </div>
 
 <br>
