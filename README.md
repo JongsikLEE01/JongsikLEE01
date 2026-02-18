@@ -46,12 +46,12 @@
 <br>
 
 <!-- <div align='center'>
-	<!--<table>
+	<<table>
     <tr border="0">
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongsikLee01&layout=compact" style="height: 195px;"></td>
       <td><img src="https://github-readme-stats.vercel.app/api?username=jongsikLee01&show_icons=true"></td>
     </tr>
-  </table>-->
+  </table>
   <h3> My Stats 😎 </h3>
   <img src="https://github-readme-stats.vercel.app/api?username=jongsikLee01&show_icons=true&theme=graywhite">
 </div> -->
