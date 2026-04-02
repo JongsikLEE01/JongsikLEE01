@@ -17,8 +17,8 @@
 	<img src="https://img.shields.io/badge/Node.Js-005F0F?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
-	<img src="https://img.shields.io/badge/Vue-28a745?style=flat&logo=Thymeleaf&logoColor=white">
-	<img src="https://img.shields.io/badge/Thymeleaf-28a745?style=flat&logo=Thymeleaf&logoColor=white">
+	<img src="https://img.shields.io/badge/Vue-28a745?style=flat&logo=Vue&logoColor=white">
+	<img src="https://img.shields.io/badge/Thymeleaf-6DB33F?style=flat&logo=Thymeleaf&logoColor=white">
 	<br>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
